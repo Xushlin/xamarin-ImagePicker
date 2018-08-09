@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">图片选择器</string>
+  <!--Request Permission-->
+  <string name="permission_info">应用需要权限预览存储图片.</string>
+  <string name="permission_force">应用需要权限预览存储图片. 点击设置去对应用进行授权.</string>
+  <string name="permission_ok">确定</string>
+  <string name="permission_settings">设置</string>
+  <string name="permission_package">package</string>
+  <string name="album_view">选择图片相册</string>
+  <string name="image_view">点击选择图片</string>
+  <string name="selected">选择了 </string>
+  <string name="limit_exceeded">最多正能选择{0}张图片</string>
+  <string name="error_null_cursor">OMG,出错了，重新来吧!</string>
+  <string name="add">添加</string>
+  <string name="capture_photo">拍摄照片</string>
+</resources>
